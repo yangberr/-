@@ -1,0 +1,2 @@
+pip --default-timeout=100 install scikit_learn -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+Looking in indexes: http://pypi.douban.com/simple/
